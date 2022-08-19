@@ -9,7 +9,11 @@ I decided that instead of paying $5+shipping per box I wanted to create mini gam
 
 My goal for these was to make sure the designs could either be fit onto a single sheet of 8½" x 11" paper or two at most. I wanted these boxes to as closely mimic their original counterparts but only be a few mm (millimeters) larger than the cart itself.
 
-The boxes are comprised of the highest resolution scans I could find of these boxes and a little fudgery to get the remaining bits all lined up and pretty. Here are a few of the resources I used:
+The boxes are comprised of the highest resolution scans I could find of these boxes and a little fudgery to get the remaining bits all lined up and pretty. 
+
+Some boxes fold together (I use a metal ruler to pre-crease the folds) and some boxes need to be glued. I used a brush on non-generic simian-branded super glue for this project and was quite happy with the results.
+
+Here are a few of the resources I used:
 
 Lots of standard case sizes <br>
 http://www.thecoverproject.net/forums/index.php?topic=39.msg163#msg163
