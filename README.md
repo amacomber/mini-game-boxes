@@ -11,20 +11,20 @@ My goal for these was to make sure the designs could either be fit onto a single
 
 The boxes are comprised of the highest resolution scans I could find of these boxes and a little fudgery to get the remaining bits all lined up and pretty. Here are a few of the resources I used:
 
-Lots of standard case sizes
+Lots of standard case sizes <br>
 http://www.thecoverproject.net/forums/index.php?topic=39.msg163#msg163
 
-Near's Original Lossless SNES Scans
+Near's Original Lossless SNES Scans <br>
 https://drive.google.com/drive/folders/1ej48NB99R4K3KbaIBEPPdrafq4j6ywcR
 
-Gaming Alexandria has lots of logos and scans and is super-amazing
+Gaming Alexandria has lots of logos and scans and is super-amazing <br>
 https://www.gamingalexandria.com/wp/scans/
 
-Screen Scraper was good for PAL stuff
+Screen Scraper was good for PAL stuff <br>
 https://screenscraper.fr
 
-Video Game Box Art
+Video Game Box Art <br>
 https://vgboxart.com/browse-resources/render
 
-Nintandbox was a humungous resource in this project
+Nintandbox was a humungous resource in this project <br>
 https://www.nintandbox.net/index.php/en/
