@@ -17,7 +17,6 @@ The boxes are comprised of the highest resolution scans I could find of these bo
 Some boxes fold together (I use a metal ruler to pre-crease the folds) and some boxes need to be glued. I used a brush on non-generic simian-branded super glue for this project and was quite happy with the results.
 
 <H1>Resources</H1>
-Here are a few of the resources I used:
 
 Lots of standard case sizes <br>
 http://www.thecoverproject.net/forums/index.php?topic=39.msg163#msg163
