@@ -1,10 +1,10 @@
 # mini-game-boxes
-This repo is for storage of mini video game boxes.
-<img src="drawing.jpg" alt="drawing" width="200"/>[IMG_9192](https://user-images.githubusercontent.com/68449783/191352385-ef04b32d-6f51-4d08-9385-fb2fa393dae5.jpeg)
-<img src="drawing.jpg" alt="drawing" width="200"/>[IMG_9308](https://user-images.githubusercontent.com/68449783/191352473-45c86ea2-9097-488a-8842-ee89da15053b.jpeg)
-<img src="drawing.jpg" alt="drawing" width="200"/>[IMG_9352](https://user-images.githubusercontent.com/68449783/191352538-23d199f1-6a02-4864-a45e-b0afb0b18f6a.jpeg)
-<img src="drawing.jpg" alt="drawing" width="200"/>[IMG_9304](https://user-images.githubusercontent.com/68449783/191352490-184167f8-1d2f-448d-afab-e5649e40d6ab.jpeg)
-<img src="https://user-images.githubusercontent.com/68449783/191352511-0559c0e9-9e4a-498b-b103-b8e50d19ec8a.jpeg" alt="drawing" width="200"/>
+This repo is for storage of mini video game boxes.<P>
+<img src="https://user-images.githubusercontent.com/68449783/191352385-ef04b32d-6f51-4d08-9385-fb2fa393dae5.jpeg" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/68449783/191352473-45c86ea2-9097-488a-8842-ee89da15053b.jpeg" alt="drawing" width="300"/><br>
+<img src="https://user-images.githubusercontent.com/68449783/191352538-23d199f1-6a02-4864-a45e-b0afb0b18f6a.jpeg" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/68449783/191352490-184167f8-1d2f-448d-afab-e5649e40d6ab.jpeg" alt="drawing" width="300"/><br>
+<img src="https://user-images.githubusercontent.com/68449783/191352511-0559c0e9-9e4a-498b-b103-b8e50d19ec8a.jpeg" alt="drawing" width="600"/>
 
 <H1>Origin Story</H1>
 I was tired of trying to figure out what to do with my loose video games. I had purchased a few bit-boxes but they've got a pretty large footprint compared to the original cartridges.
