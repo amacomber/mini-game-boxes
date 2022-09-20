@@ -9,7 +9,7 @@ https://stoneagegamer.com/bitbox-nes-game-case.html (no kickbacks from Stone Age
 I decided that instead of paying $5+shipping per box I wanted to create mini game boxes out of card stock on my laser printer. 
 
 <H1>Laying the Ground Work</H1>
-My goal for these was to make sure the designs could either be fit onto a single sheet of 8½" x 11" paper or two at most. I wanted these boxes to as closely mimic their original counterparts but only be a few mm (millimeters) larger than the cart itself.<br>
+My goal for these was to make sure the designs could either be fit onto a single sheet of 8½" x 11" paper or two at most. I wanted these boxes to as closely mimic their original counterparts but only be a few mm (millimeters) larger than the cart itself.<br><p>
 
 The boxes are comprised of the highest resolution scans I could find of these boxes and a little fudgery to get the remaining bits all lined up and pretty. 
 
